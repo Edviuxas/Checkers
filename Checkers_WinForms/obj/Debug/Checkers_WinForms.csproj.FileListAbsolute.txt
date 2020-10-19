@@ -1,0 +1,10 @@
+C:\Users\Edvinas\source\repos\Checkers_WinForms\Checkers_WinForms\bin\Debug\Checkers_WinForms.exe.config
+C:\Users\Edvinas\source\repos\Checkers_WinForms\Checkers_WinForms\bin\Debug\Checkers_WinForms.exe
+C:\Users\Edvinas\source\repos\Checkers_WinForms\Checkers_WinForms\bin\Debug\Checkers_WinForms.pdb
+C:\Users\Edvinas\source\repos\Checkers_WinForms\Checkers_WinForms\obj\Debug\Checkers_WinForms.Form1.resources
+C:\Users\Edvinas\source\repos\Checkers_WinForms\Checkers_WinForms\obj\Debug\Checkers_WinForms.Properties.Resources.resources
+C:\Users\Edvinas\source\repos\Checkers_WinForms\Checkers_WinForms\obj\Debug\Checkers_WinForms.csproj.GenerateResource.cache
+C:\Users\Edvinas\source\repos\Checkers_WinForms\Checkers_WinForms\obj\Debug\Checkers_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\source\repos\Checkers_WinForms\Checkers_WinForms\obj\Debug\Checkers_WinForms.exe
+C:\Users\Edvinas\source\repos\Checkers_WinForms\Checkers_WinForms\obj\Debug\Checkers_WinForms.pdb
+C:\Users\Edvinas\source\repos\Checkers_WinForms\Checkers_WinForms\obj\Debug\Checkers_WinForms.csprojAssemblyReference.cache
